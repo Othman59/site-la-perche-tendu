@@ -1,5 +1,5 @@
 html {
-    background-color: #FBB52D;
+    background-color: #ffffff;
     scroll-behavior: smooth;
 }
 
@@ -60,8 +60,6 @@ header #head-wrap .wrap {
 .bienvenue {
     flex: 1;
     text-align: center;
-
-
 }
 
 
@@ -143,6 +141,8 @@ h1 {
     width: 20%;
     margin-top: 5%;
     margin-left: 3%;
+    background-color: #f79809;
+    border: #31455d solid 4px;
 }
 
 .textActu1 {
@@ -156,6 +156,8 @@ h1 {
     margin-left: 5%;
     width: 25.5%;
     height: 50%;
+    background-color: #f79809;
+    border: #31455d solid 4px;
 }
 
 .textActu2 {
@@ -169,6 +171,8 @@ h1 {
     margin-left: 3%;
     width: 30%;
     height: 20%;
+    background-color: #f79809;
+    border: #31455d solid 4px;
 }
 
 .flexActu2 {
@@ -188,6 +192,8 @@ h1 {
     margin-top: 10%;
     margin-left: 5%;
     width: 16%;
+    background-color: #f79809;
+    border: #31455d solid 4px;
 }
 
 .textActu4 {
@@ -330,8 +336,8 @@ footer a {
 
 .event-footer:hover {
 
-    background-color: #0752ad;
-    color: #fbb52D;
+    background-color: #0a07ad;
+    color: #1405e0;
     text-decoration: none;
     padding: 14px 15px;
     width: 20%;

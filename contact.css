@@ -1,5 +1,5 @@
 html {
-    background-color: #FBB52D;
+    background-color: #1f0dc0;
     scroll-behavior: smooth;
 }
 
@@ -129,7 +129,7 @@ nav a:hover {
 
 .icons a:hover {
 
-    color: #fbb52d;
+    color: #422dfb;
 }
 
 /* body */
@@ -364,7 +364,7 @@ footer a {
 .event-footer:hover {
 
     background-color: #0752ad;
-    color: #fbb52D;
+    color: #200fb3;
     text-decoration: none;
     padding: 14px 15px;
     width: 20%;
