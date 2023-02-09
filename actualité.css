@@ -317,8 +317,6 @@ footer a {
 }
 
 /* ==== RESPONSIVE A VENIR ====
-@florian */
-
 
 
 .event-footer {
@@ -454,8 +452,6 @@ footer a {
 
     /* Footer */
 
-
-
     .footeradresse {
 
         width: 100%;
@@ -472,8 +468,7 @@ footer a {
         background-color: #405670;
     }
 
-}
-
+    
 @media screen and (min-width: 481px) and (max-width: 1000px) {
 
     /* Body */
@@ -543,7 +538,5 @@ footer a {
     .textActu4 {
         margin-bottom: 15%;
     }
-
-
 
 }
