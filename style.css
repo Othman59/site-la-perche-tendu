@@ -12,7 +12,6 @@ body {
 
 /* ==== HEADER ===== */
 
-
 header.sticky {
 
     width: 100%;
@@ -153,7 +152,6 @@ nav a:hover {
     color: #fff;
 }
 
-
 .icons {
     flex: 1;
     text-align: center;
@@ -195,7 +193,6 @@ section .bg-main {
     justify-content: center;
     position: relative;
 
-
 }
 
 .recherche .seek input {
@@ -221,7 +218,6 @@ section .bg-main {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
     border: none;
     background-color: white;
     cursor: pointer;
@@ -490,8 +486,6 @@ a p.event-text {
     text-align: center;
 
 }
-
-
 
 .hover-image-event {
     position: absolute;
